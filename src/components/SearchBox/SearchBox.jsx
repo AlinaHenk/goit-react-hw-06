@@ -1,4 +1,4 @@
-import css from "./SEarchBox.module.css";
+import css from "./SearchBox.module.css";
 
 export default function SearchBox({ onType }) {
   const handleChange = (event) => {
